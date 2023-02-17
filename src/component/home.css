@@ -1,0 +1,19 @@
+.NavWrapper{
+    display: flex;
+    background-color: teal;
+    height: 50px;
+    align-items: center;
+    }
+.NavContainer{
+    justify-content: space-between;
+    display: flex;
+    width: 400px;
+    height: fit-content;
+}
+.Home:hover{
+    color: white;
+    
+}
+.Home {
+    cursor: pointer;
+}
